@@ -7,6 +7,7 @@ Recently, I passed the final qualifying exam at SPbPU on C++ development. I have
 
 While I was a student, **I mastered the following themes**: C/C++ programming procedures, OOP (structures, classes, templates, basic STL containers), RTTI, new standards C++ 14/11/17 (MS Visual Studio).  Databases foundation such as SQL queries, relationship normalization, database design.
 I have knowledge of software development methodology & Qt components, Model-View-Controller (MVC) application architecture principles.
+
 I intend to continue my studies with an extensive study of C++ and Qt.
 
 ---
