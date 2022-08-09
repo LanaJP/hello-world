@@ -21,3 +21,4 @@ Things I'd like to do:
 - [ ] Computer networks. Principles, technologies, protocols
 - [ ] Microcontrollers
 - [ ] Development methodologies(Agile, Scrum, DevOps, Waterfall, Rapid & others)
+- [ ] TCP/IP
