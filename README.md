@@ -17,7 +17,7 @@ Things I'd like to do:
 - [ ] algorithms and data structures
 - [ ] OOP patterns
 - [ ] Linux
-- [ ] C++ Parallel Programming
+- [ ] Multithreading
 - [ ] Computer networks. Principles, technologies, protocols
 - [ ] Microcontrollers
 - [ ] Development methodologies(Agile, Scrum, DevOps, Waterfall, Rapid & others)
